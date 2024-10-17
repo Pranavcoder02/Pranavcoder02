@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-joshi-09436b2b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-joshi-09436b2b6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-joshi-09436b2b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/pranav-joshi-09436b2b6](https://www.linkedin.com/in/pranav-joshi-09436b2b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/pranavjoshi9890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/pranavjoshi9890" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/pranavjoshi9890/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/pranavjoshi9890/" height="30" width="40" /></a>
 </p>
